@@ -1,7 +1,7 @@
 name := "StructuredStreaming"
 version := "0.1.0-SNAPSHOT"
 scalaVersion := "2.12.10"
-autoScalaLibrary := falsea
+autoScalaLibrary := false
 val sparkVersion = "3.0.0"
 
 val sparkDependencies = Seq(
